@@ -2,6 +2,7 @@
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/kirelos/wordpress-wpcli.svg)
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/kirelos/wordpress-wpcli.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kirelos/wordpress-wpcli.svg)
 
 **NOTE: The official WordPress Docker images now include wp-cli as a variant**
 - [Official WordPress Image](https://hub.docker.com/_/wordpress/)
