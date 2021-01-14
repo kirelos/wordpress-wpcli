@@ -1,4 +1,4 @@
-FROM wordpress:latest
+FROM wordpress:5.6.0-fpm-alpine
 
 # Add sudo in order to run wp-cli as the www-data user 
 RUN apk add --update sudo less mysql-client
