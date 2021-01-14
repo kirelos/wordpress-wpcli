@@ -8,7 +8,7 @@
 
 ---
 
-This repository contains the Dockerfile for the autobuild of [wordpress-with-wp-cli](https://hub.docker.com/r/kirelos/wordpress-wpcli/ Docker image.
+This repository contains the Dockerfile for the autobuild of [wordpress-wpcli](https://hub.docker.com/r/kirelos/wordpress-wpcli/) Docker image.
 
 The Dockerfile uses the official WordPress image and adds [wp-cli](http://wp-cli.org/).
 
